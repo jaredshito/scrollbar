@@ -1,0 +1,98 @@
+html,body{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #818181;
+}
+.intro{
+	height: 100%;
+	width: 100%;
+	margin: auto;
+	background-image: url(../img/recamara.jpg);
+	background-position: center;
+	font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+	color: #fff;
+	display:table;
+	top: 0%;
+	background-size: cover;
+
+}
+.intro .inner{
+	display:table-cell;
+	vertical-align: middle;
+	width:100%;
+	max-width: none;
+
+}
+.intro .inner h1{
+	font-weight: bolder;
+	font-size: 60px;
+}
+.intro .inner hr {
+  max-width: 50px;
+  border-width: 3px;
+  border-color: #ee4b28;
+}
+
+.intro .inner hr.light {
+  border-color: #fff;
+}
+.btn-outline-primary{
+	background-color: #ee4b28;
+	border-radius: 9px;
+ 	font-family: 'oswald', sans-serif;
+ 	color:white;
+ 	font-size: 135%;
+ 	padding:10px 20px;
+ 	border: solid #ee4b28 3px;
+ 	text-transform: uppercase;
+ 	text-decoration: none;
+}
+.btn-outline-primary:hover{
+	color:white;
+	border: solid #fff 3px;
+}
+
+.rojo{
+	margin-bottom: 0;
+	background-color: #ee4b28;
+}
+.rojo h1{
+	color: #ffff;
+}
+.rojo p{
+	color: #ffff;
+}
+
+.rojo{
+	
+}
+.rojo hr{
+	max-width: 50px;
+  border-width: 3px;
+  border-color: #ffff;
+}
+.blanco{
+	margin-bottom: 0;
+	background-color: #ffff;
+}
+.blanco hr{
+	max-width: 50px;
+  border-width: 3px;
+  border-color: #ee4b28;
+}
+.icono {
+	font-size: 90px;
+}
+.mapa{
+	margin-bottom: 0;
+	background-color: #ffff;
+}
+
+
+
+
+  
